@@ -164,11 +164,11 @@
 }
 
 /* Animation classes */
-.animate-enter {
+.animate-enter-custom {
   @apply animate-enter;
 }
 
-.animate-exit {
+.animate-exit-custom {
   @apply animate-exit;
 }
 
